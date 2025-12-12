@@ -5,3 +5,9 @@ gitignore
 #chúng ta sẽ bỏ qua tất cả file có đuôi .log
 
 *.log
+
+
+
+#bỏ qua file abc.xyz nhưng giữ myfile.xyz
+/*.xyz 
+#sẽ chỉ bỏ qua file.xyz ỏ trong git repo 
