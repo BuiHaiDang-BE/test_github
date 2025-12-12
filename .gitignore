@@ -11,3 +11,9 @@ gitignore
 #bỏ qua file abc.xyz nhưng giữ myfile.xyz
 /*.xyz 
 #sẽ chỉ bỏ qua file.xyz ỏ trong git repo 
+
+
+#mình muốn bảo qua file abx.txt trong secondfolder
+#ubuntu sử dụng / là path sêprator
+#window thì sử dụng // hoặc \ path
+secondfolder/abx.txt
