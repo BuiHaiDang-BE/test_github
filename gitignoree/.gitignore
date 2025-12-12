@@ -1,0 +1,7 @@
+#đây là commen ko có tác dụng ignore file\folders
+# gitignore  gitignore/  => git không theo dõi thư mục
+gitignore
+
+#chúng ta sẽ bỏ qua tất cả file có đuôi .log
+
+*.log
